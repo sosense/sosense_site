@@ -6,14 +6,15 @@ weight = 50
 background = "light" # can influence the text color
 particles = true
 
-title = "Syna Theme"
-subtitle = "Showcase your next project"
+title = "Solent Sensors"
+subtitle = "Miniature chemical sensors for aquatic systems"
 
 [header]
-  image = "header.jpg"
+  image = "sosense-header.jpg"
+  #https://mocah.org/5424148-ice-iceberg-reflection-sea-glacier-snow-landscape-icy-blue-cloud-clouds-cloudscape-refelction-river-water-lake-winter-iceland-freezing-calm-free-pictures.html
 
 [asset]
-  image = "logo.svg"
+  image = "sosense-logo.svg"
   width = "500px" # optional - will default to image width
   #height = "150px" # optional - will default to image height
 

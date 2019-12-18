@@ -5,16 +5,18 @@ date = "2016-09-07"
 weight = 1200
 #background = ""
 
-menu_title = "Link Title"
+menu_title = "Links"
 
 [asset]
-  title = "Logo Title"
-  image = "logo.svg"
-  text = "Logo Subtext"
+  title = "Solent Sensors"
+  image = "sosense-logo.svg"
+  text = "Solent Sensors"
   url = "#"
 +++
 
 #### Description Title
+
+Text
 
 Project description such as:
 Open source theme for your next project

@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "/"
 languageCode = "en-us"
-title = "Okkur - Syna"
+title = "Solent Sensors"
 theme = "syna"
 enableGitInfo = true
 version = "0.15.2"
@@ -75,17 +75,17 @@ lastmod = ["lastmod", ":git", "date"]
 
 [[menu.footer]]
   url = "#"
-  name = "Link"
+  name = "Link-in config file"
   weight = 10
 
 [[menu.footer]]
   url = "#"
-  name = "Long Link"
+  name = "Long Link-in config file"
   weight = 30
 
 [[menu.footer]]
   url = "#"
-  name = "Tiny Link"
+  name = "Tiny Link-in config file"
   weight = 30
 
 [[menu.copyright_footer]]
