@@ -17,8 +17,8 @@ date = ["date", "lastmod"]
 lastmod = ["lastmod", ":git", "date"]
 
 [params]
-  name = "Okkur Labs"
-  description = "Open Source Theme for your next project"
+  name = "Solent Sensors"
+  description = "Miniature chemical sensors for aquatic systems"
 
   [params.style]
     #background = "secondary"

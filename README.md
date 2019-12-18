@@ -1,6 +1,6 @@
-# Syna Start
+# SoSense website
 
-This is a sample project that can be used to jump start your Syna project. It uses Syna theme and Hugo with sample files that introduce two simple pages, one for landing and one for the about page.
+I used the Syna Start as template. It uses Syna theme and Hugo to generate two simple pages, one for landing and one for the about page.
 
 ## Prerequisites
 - [Install Git](https://git-scm.com/downloads).
@@ -8,18 +8,15 @@ This is a sample project that can be used to jump start your Syna project. It us
 - [Install Hugo](https://gohugo.io/getting-started/installing/). Depending on your system, this might require Scoop, Choclatey, or other software.
 
 ## Installation
-
-To start using this starter you need to clone or download this repository and update it's git submodules (Syna theme is added as a submodule).
+You need to clone this directory. In Windows Powershell, change into your project directory
 
 ```
-git clone https://git.okkur.org/syna-start project-name && cd project-name
-git submodule init
-git submodule update
+git clone https://github.com/sarigiering/sosense.git
 ```
 
 ## Usage
 
-To start your website run the following commands:
+To start your website, run the following commands:
 
 **Development**:
 ```
