@@ -1,10 +1,11 @@
 # Site settings
-baseurl = "/"
+baseurl = "http://sosense.github.io/"
 languageCode = "en-us"
 title = "Solent Sensors"
 theme = "syna"
-enableGitInfo = true
+enableGitInfo = false
 version = "0.15.2"
+publishDir = "sosense.github.io"
 
 # Google Analytics tracking
 googleAnalytics = ""

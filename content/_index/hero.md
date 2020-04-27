@@ -19,17 +19,17 @@ subtitle = "Miniature chemical sensors for aquatic systems"
   #height = "150px" # optional - will default to image height
 
 [[buttons]]
-  text = "Button"
+  text = "Mission"
   url = "#"
   color = "info" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
-  text = "Download"
-  url = "https://github.com/okkur/syna/releases"
+  text = "Sensors"
+  url = ""
   color = "primary"
 
 [[buttons]]
-  text = "Button"
+  text = "Team"
   url = "#"
   color = "success"
 +++
