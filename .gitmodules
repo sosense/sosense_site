@@ -1,3 +1,6 @@
 [submodule "themes/syna"]
 	path = themes/syna
 	url = https://git.okkur.org/syna
+[submodule "sosense.github.io"]
+	path = sosense.github.io
+	url = git@github.com:sosense/sosense.github.io.git
