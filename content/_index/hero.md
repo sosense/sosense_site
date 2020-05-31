@@ -10,11 +10,13 @@ title = "Clear Water Sensors"
 subtitle = " "
 
 [header]
-  image = "drop-lightblue-crop.png"
+  #image = "drop-lightblue-crop.png"
+  #image = "sosense-header-blue.png"
+  image = "sosense-header-light-800.png"
   #https://mocah.org/5424148-ice-iceberg-reflection-sea-glacier-snow-landscape-icy-blue-cloud-clouds-cloudscape-refelction-river-water-lake-winter-iceland-freezing-calm-free-pictures.html
 
 [asset]
-  image = "cws-logo-tag.svg"
+  image = "cws-logo-tag-blur.svg"
   width = "500px" # optional - will default to image width
   #height = "150px" # optional - will default to image height
 
