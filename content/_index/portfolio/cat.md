@@ -1,18 +1,18 @@
 +++
 weight = 20
-title = "A cat"
-subtitle = "Yes, this is a cat. Why not?"
+title = "pH sensor"
+#subtitle = "Yes, this is a cat. Why not?"
 
 [asset]
-  image = "cat-2.jpeg"
+  image = "cell2.jpg"
 
 [[labels]]
-  title = "Animal"
-  icon = "fas fa-paw"
+#  title = "Microchip"
+#  icon = "fas fa-cog"
 
 [[labels]]
-  title = "Cat"
-  icon = "fas fa-cat"
+#  title = "Southampton, UK"
+#  icon = "fas fa-map-marked"
 +++
 
 Ante in nibh mauris cursus mattis molestie a iaculis. Nisi porta lorem mollis aliquam. Eu consequat ac felis donec et odio pellentesque diam volutpat. Arcu dui vivamus arcu felis. Senectus et netus et malesuada fames ac turpis egestas sed. Orci eu lobortis elementum nibh.

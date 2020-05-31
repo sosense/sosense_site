@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "http://sosense.github.io/"
 languageCode = "en-us"
-title = "Solent Sensors"
+title = "ClearWater Sensors"
 theme = "syna"
 enableGitInfo = false
 version = "0.15.2"
@@ -18,8 +18,8 @@ date = ["date", "lastmod"]
 lastmod = ["lastmod", ":git", "date"]
 
 [params]
-  name = "Solent Sensors"
-  description = "Miniature chemical sensors for aquatic systems"
+  name = "ClearWater Sensors"
+  description = "resolving aquatic chemistry"
 
   [params.style]
     #background = "secondary"
@@ -47,14 +47,14 @@ lastmod = ["lastmod", ":git", "date"]
     pro = false
 
   [params.colors]
-    primary = "#00838F"
-    secondary = "#868e96"
-    success = "#008f54"
-    info = "#00c9dc"
-    warning = "#fdf314"
-    danger = "#dc1200"
+    primary = "#00aad4ff"
+    secondary = "#063852ff"
+    success = "#ffdc5bff"
+    info = "#ffdc5bff"
+    warning = "#d1224bff"
+    danger = "#d1224bff"
     light = "#f8f9fa"
-    dark = "#343a40"
+    dark = "#011a27ff"
 
 # main/prepend/postpend menus are displayed in nav fragment.
 # Keep an eye out for updates. These will be moved out to make navbar more

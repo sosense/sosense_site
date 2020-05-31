@@ -8,9 +8,9 @@ weight = 1200
 menu_title = "Links"
 
 [asset]
-  title = "Solent Sensors"
-  image = "sosense-logo.svg"
-  text = "Solent Sensors"
+  title = "ClearWater Sensors"
+  image = "cws-logo.svg"
+  text = "ClearWater Sensors"
   url = "#"
 +++
 

@@ -11,7 +11,8 @@ weight = 0
 #  icon = "fab fa-github" # defaults: "fab fa-github"
 
 # Branding options
+# In folder: 
 [asset]
-  image = "sosense-logo.svg"
-  text = "Solent Sensors"
+  image = "cws-clearwater-only.svg"
+  text = "Clear Water Sensors"
 +++

@@ -6,30 +6,30 @@ weight = 50
 background = "light" # can influence the text color
 particles = true
 
-title = "Solent Sensors"
-subtitle = "Miniature chemical sensors for aquatic systems"
+title = "Clear Water Sensors"
+subtitle = " "
 
 [header]
-  image = "sosense-header.jpg"
+  image = "drop-lightblue-crop.png"
   #https://mocah.org/5424148-ice-iceberg-reflection-sea-glacier-snow-landscape-icy-blue-cloud-clouds-cloudscape-refelction-river-water-lake-winter-iceland-freezing-calm-free-pictures.html
 
 [asset]
-  image = "sosense-logo.svg"
+  image = "cws-logo-tag.svg"
   width = "500px" # optional - will default to image width
   #height = "150px" # optional - will default to image height
 
 [[buttons]]
   text = "Mission"
   url = "#"
-  color = "info" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+  color = "primary" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
   text = "Sensors"
   url = ""
-  color = "primary"
+  color = "danger"
 
 [[buttons]]
   text = "Team"
   url = "#"
-  color = "success"
+  color = "secondary"
 +++
