@@ -4,7 +4,7 @@ fragment = "hero"
 date = "2016-09-07"
 weight = 50
 background = "light" # can influence the text color
-particles = true
+particles = false
 
 title = "Clear Water Sensors"
 subtitle = " "
@@ -16,7 +16,7 @@ subtitle = " "
   #https://mocah.org/5424148-ice-iceberg-reflection-sea-glacier-snow-landscape-icy-blue-cloud-clouds-cloudscape-refelction-river-water-lake-winter-iceland-freezing-calm-free-pictures.html
 
 [asset]
-  image = "cws-logo-tag-blur.svg"
+  image = "cws-logo-tag.svg"
   width = "500px" # optional - will default to image width
   #height = "150px" # optional - will default to image height
 
