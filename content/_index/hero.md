@@ -12,7 +12,8 @@ subtitle = " "
 [header]
   #image = "drop-lightblue-crop.png"
   #image = "sosense-header-blue.png"
-  image = "sosense-header-light-800.png"
+  #image = "sosense-header-light-800.png"
+  image = "glacier-light-800-center.png"
   #https://mocah.org/5424148-ice-iceberg-reflection-sea-glacier-snow-landscape-icy-blue-cloud-clouds-cloudscape-refelction-river-water-lake-winter-iceland-freezing-calm-free-pictures.html
 
 [asset]
