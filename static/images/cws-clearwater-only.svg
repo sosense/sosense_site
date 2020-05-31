@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="55.646903"
+     inkscape:cx="-4.2046349"
      inkscape:cy="10.744197"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
-     inkscape:window-x="1911"
-     inkscape:window-y="153"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata896">
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,19 +53,50 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-288.5)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99600506px;line-height:1;font-family:'Saira SemiCondensed';-inkscape-font-specification:'Saira SemiCondensed, ';letter-spacing:0px;word-spacing:0px;fill:#00aad4;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
-       x="-0.41254348"
-       y="295.8002"
-       id="text817-2-7-2-9"><tspan
-         sodipodi:role="line"
-         x="-0.41254348"
-         y="295.8002"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:semi-condensed;font-size:7.98934746px;font-family:'Saira SemiCondensed';-inkscape-font-specification:'Saira SemiCondensed, Light Semi-Condensed';stroke-width:0.26458332;fill:#00aad4;fill-opacity:1;"
-         id="tspan819-9-9-9-8"><tspan
-           dx="0 0 0 0 0 0.70771778"
-           id="tspan1454"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:semi-condensed;font-size:7.98934746px;font-family:'Saira SemiCondensed';-inkscape-font-specification:'Saira SemiCondensed, Medium Semi-Condensed';fill:#00aad4;stroke-width:0.26458332;fill-opacity:1;">ClearWater</tspan></tspan></text>
+    <g
+       aria-label="ClearWater"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99600506px;line-height:1;font-family:'Saira SemiCondensed';-inkscape-font-specification:'Saira SemiCondensed, ';letter-spacing:0px;word-spacing:0px;fill:#00aad4;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text817-2-7-2-9">
+      <path
+         d="m 2.0082288,295.86412 c 0.3754993,0 0.8468708,-0.0479 1.1424767,-0.11185 v -0.65513 c -0.2636485,0.0399 -0.6551265,0.0719 -0.9507324,0.0719 -1.21438077,0 -1.31025294,-0.18375 -1.31025294,-2.11717 0,-1.93343 0.0958722,-2.11718 1.31025294,-2.11718 0.2316911,0 0.5832224,0.032 0.918775,0.0719 v -0.64713 c -0.2636485,-0.0719 -0.7270306,-0.11984 -1.1105193,-0.11984 -1.68575231,0 -1.94141143,0.51131 -1.94141143,2.81225 0,2.31691 0.24766977,2.81225 1.94141143,2.81225 z"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:semi-condensed;font-size:7.98934746px;font-family:'Saira SemiCondensed';-inkscape-font-specification:'Saira SemiCondensed, Medium Semi-Condensed';fill:#00aad4;fill-opacity:1;stroke-width:0.26458332"
+         id="path815" />
+      <path
+         d="m 4.0397702,295.8002 h 0.7749667 v -5.93608 H 4.0397702 Z"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:semi-condensed;font-size:7.98934746px;font-family:'Saira SemiCondensed';-inkscape-font-specification:'Saira SemiCondensed, Medium Semi-Condensed';fill:#00aad4;fill-opacity:1;stroke-width:0.26458332"
+         id="path817" />
+      <path
+         d="m 8.8923,293.76292 c 0,-1.54195 -0.047936,-2.1012 -1.4940079,-2.1012 -1.5259654,0 -1.6298269,0.5992 -1.6298269,2.10919 0,1.56591 0.1517976,2.09321 1.6857523,2.09321 0.4633822,0 1.0066578,-0.0479 1.3022636,-0.11984 v -0.59921 c -0.3595206,0.0479 -0.8229028,0.0799 -1.1344873,0.0799 -1.0066578,0 -1.0785619,-0.18376 -1.0785619,-1.22237 H 8.8923 Z m -1.5099866,-1.47803 c 0.6071904,0 0.7669773,0.11185 0.7669773,1.14248 v 0.0559 H 6.5434319 c 0,-1.03063 0.095872,-1.1984 0.8388815,-1.1984 z"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:semi-condensed;font-size:7.98934746px;font-family:'Saira SemiCondensed';-inkscape-font-specification:'Saira SemiCondensed, Medium Semi-Condensed';fill:#00aad4;fill-opacity:1;stroke-width:0.26458332"
+         id="path819" />
+      <path
+         d="m 10.786898,295.86412 c 0.415447,0 0.942743,-0.0639 1.166445,-0.60719 h 0.04794 l 0.03196,0.54327 h 0.711052 v -2.54061 c 0,-1.19041 -0.207723,-1.59787 -1.549934,-1.59787 -0.479361,0 -0.958722,0.0479 -1.3262315,0.11984 v 0.5992 c 0.2716375,-0.04 0.7909455,-0.0799 1.0865515,-0.0799 0.862849,0 1.014647,0.0639 1.014647,0.93475 v 0.23968 c -0.391478,-0.016 -0.98269,-0.032 -1.190413,-0.032 -0.8868175,0 -1.1424766,0.31159 -1.1424766,1.22237 0,0.9028 0.3675096,1.19841 1.1504656,1.19841 z m 0.311585,-0.63116 c -0.591212,0 -0.711052,-0.11185 -0.711052,-0.63116 0,-0.55926 0.111851,-0.63915 0.60719,-0.63915 h 0.974701 v 0.21571 c 0,0.34355 -0.03995,0.56725 -0.12783,0.751 -0.135819,0.26365 -0.407456,0.3036 -0.743009,0.3036 z"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:semi-condensed;font-size:7.98934746px;font-family:'Saira SemiCondensed';-inkscape-font-specification:'Saira SemiCondensed, Medium Semi-Condensed';fill:#00aad4;fill-opacity:1;stroke-width:0.26458332"
+         id="path821" />
+      <path
+         d="m 13.8236,295.8002 h 0.774967 v -1.82956 c 0,-1.08655 0.255659,-1.54194 1.198402,-1.54194 v -0.76698 c -0.583223,0 -0.998669,0.15979 -1.182424,0.80692 h -0.05593 l -0.03196,-0.74301 H 13.8236 Z"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:semi-condensed;font-size:7.98934746px;font-family:'Saira SemiCondensed';-inkscape-font-specification:'Saira SemiCondensed, Medium Semi-Condensed';fill:#00aad4;fill-opacity:1;stroke-width:0.26458332"
+         id="path823" />
+      <path
+         d="m 18.045756,295.8002 h 1.038615 l 0.974701,-4.21038 h 0.03995 l 0.974701,4.21038 h 1.038615 l 1.190413,-5.49667 h -0.822903 l -0.870839,4.45806 h -0.04794 l -1.014647,-4.45806 h -0.902796 l -1.006658,4.45806 h -0.04794 l -0.894807,-4.45806 h -0.838882 z"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:semi-condensed;font-size:7.98934746px;font-family:'Saira SemiCondensed';-inkscape-font-specification:'Saira SemiCondensed, Medium Semi-Condensed';fill:#00aad4;fill-opacity:1;stroke-width:0.26458332"
+         id="path825" />
+      <path
+         d="m 24.680161,295.86412 c 0.415446,0 0.942743,-0.0639 1.166445,-0.60719 h 0.04794 l 0.03196,0.54327 h 0.711051 v -2.54061 c 0,-1.19041 -0.207723,-1.59787 -1.549933,-1.59787 -0.479361,0 -0.958722,0.0479 -1.326232,0.11984 v 0.5992 c 0.271638,-0.04 0.790946,-0.0799 1.086552,-0.0799 0.862849,0 1.014647,0.0639 1.014647,0.93475 v 0.23968 c -0.391478,-0.016 -0.98269,-0.032 -1.190413,-0.032 -0.886818,0 -1.142477,0.31159 -1.142477,1.22237 0,0.9028 0.36751,1.19841 1.150466,1.19841 z m 0.311585,-0.63116 c -0.591212,0 -0.711052,-0.11185 -0.711052,-0.63116 0,-0.55926 0.111851,-0.63915 0.60719,-0.63915 h 0.974701 v 0.21571 c 0,0.34355 -0.03995,0.56725 -0.12783,0.751 -0.135819,0.26365 -0.407457,0.3036 -0.743009,0.3036 z"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:semi-condensed;font-size:7.98934746px;font-family:'Saira SemiCondensed';-inkscape-font-specification:'Saira SemiCondensed, Medium Semi-Condensed';fill:#00aad4;fill-opacity:1;stroke-width:0.26458332"
+         id="path827" />
+      <path
+         d="m 27.973645,295.8002 h 0.782956 v -3.43542 h 0.806924 v -0.63915 h -0.806924 v -1.18242 h -0.782956 v 1.18242 h -0.687084 v 0.63915 h 0.687084 z"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:semi-condensed;font-size:7.98934746px;font-family:'Saira SemiCondensed';-inkscape-font-specification:'Saira SemiCondensed, Medium Semi-Condensed';fill:#00aad4;fill-opacity:1;stroke-width:0.26458332"
+         id="path829" />
+      <path
+         d="m 33.224768,293.76292 c 0,-1.54195 -0.04794,-2.1012 -1.494008,-2.1012 -1.525965,0 -1.629827,0.5992 -1.629827,2.10919 0,1.56591 0.151798,2.09321 1.685753,2.09321 0.463382,0 1.006657,-0.0479 1.302263,-0.11984 v -0.59921 c -0.35952,0.0479 -0.822903,0.0799 -1.134487,0.0799 -1.006658,0 -1.078562,-0.18376 -1.078562,-1.22237 h 2.348868 z m -1.509987,-1.47803 c 0.607191,0 0.766978,0.11185 0.766978,1.14248 v 0.0559 H 30.8759 c 0,-1.03063 0.09587,-1.1984 0.838881,-1.1984 z"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:semi-condensed;font-size:7.98934746px;font-family:'Saira SemiCondensed';-inkscape-font-specification:'Saira SemiCondensed, Medium Semi-Condensed';fill:#00aad4;fill-opacity:1;stroke-width:0.26458332"
+         id="path831" />
+      <path
+         d="m 34.192604,295.8002 h 0.774967 v -1.82956 c 0,-1.08655 0.255659,-1.54194 1.198402,-1.54194 v -0.76698 c -0.583222,0 -0.998669,0.15979 -1.182424,0.80692 h -0.05592 l -0.03196,-0.74301 h -0.703063 z"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:semi-condensed;font-size:7.98934746px;font-family:'Saira SemiCondensed';-inkscape-font-specification:'Saira SemiCondensed, Medium Semi-Condensed';fill:#00aad4;fill-opacity:1;stroke-width:0.26458332"
+         id="path833" />
+    </g>
   </g>
 </svg>
